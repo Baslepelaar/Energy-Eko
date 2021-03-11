@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="L. Adel">
     <meta name="keywords" content="">
-	<link rel="stylesheet" type="text/css" href="css/ekko.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
     <title></title>
   </head>
   <body>
@@ -25,29 +25,29 @@
       </nav>
     </header>
     <main>
-    <section class="main-tekst">
-      <article class="afbeelding">
+    <section class="o-main-tekst">
+      <article class="o-afbeelding">
         <img src="images/eigenaar.png" alt="Een afbeelding van de eigenaar van EKKO energy drink" height="150px;">
       </article>
-      <article class="tekst">
+      <article class="o-tekst">
         <h2>Eigenaar</h2>
         <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Duis aliquam cursus facilisis. Vivamus consectetur ligula nec vestibulum dapibus. Curabitur vestibulum purus lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed molestie nibh ante, eu rhoncus libero convallis quis. Phasellus molestie justo massa, nec aliquet enim ultricies vitae. Donec suscipit augue vel nunc gravida pretium. Duis et ligula leo.</p>
       </article>
     </section>
-    <section class="main-tekst">
-      <article class="tekst">
-      <h2>Ons bedrijf</h2>
-      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam cursus facilisis. Vivamus consectetur ligula nec vestibulum dapibus. Curabitur vestibulum purus lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed molestie nibh ante, eu rhoncus libero convallis quis. Phasellus molestie justo massa, nec aliquet enim ultricies vitae. Donec suscipit augue vel nunc gravida pretium. Duis et ligula leo.</p>
+    <section class="o-main-tekst-bedrijf">
+      <article class="o-tekst">
+        <h2>Ons bedrijf</h2>
+        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam cursus facilisis. Vivamus consectetur ligula nec vestibulum dapibus. Curabitur vestibulum purus lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed molestie nibh ante, eu rhoncus libero convallis quis. Phasellus molestie justo massa, nec aliquet enim ultricies vitae. Donec suscipit augue vel nunc gravida pretium. Duis et ligula leo.</p>
       </article>
-      <article class="afbeelding">
+      <article class="o-afbeelding-bedrijf">
         <img src="images/bedrijf.png" alt="Afbeelding van het gebouw van EKKO energy drink" height="150px;">
       </article>
     </section>
-    <section class="main-tekst">
-      <article class="afbeelding">
-        <img src="images/strawberry.png" alt="Een afbeelding van de eigenaar van EKKO energy drink" height="150px;">
+    <section class="o-main-tekst">
+      <article class="o-afbeelding">
+        <img src="images/strawberry.png" alt="Een o-afbeelding van de eigenaar van EKKO energy drink" height="150px;">
       </article>
-      <article class="tekst">
+      <article class="o-tekst">
         <h2>Ons eerste blikje</h2>
         <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Duis aliquam cursus facilisis. Vivamus consectetur ligula nec vestibulum dapibus. Curabitur vestibulum purus lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed molestie nibh ante, eu rhoncus libero convallis quis. Phasellus molestie justo massa, nec aliquet enim ultricies vitae. Donec suscipit augue vel nunc gravida pretium. Duis et ligula leo.</p>
       </article>
