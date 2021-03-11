@@ -34,12 +34,12 @@
         <p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit. Duis aliquam cursus facilisis. Vivamus consectetur ligula nec vestibulum dapibus. Curabitur vestibulum purus lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed molestie nibh ante, eu rhoncus libero convallis quis. Phasellus molestie justo massa, nec aliquet enim ultricies vitae. Donec suscipit augue vel nunc gravida pretium. Duis et ligula leo.</p>
       </article>
     </section>
-    <section class="main-tekst">
+    <section class="main-tekst-bedrijf">
       <article class="tekst">
-      <h2>Ons bedrijf</h2>
-      <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam cursus facilisis. Vivamus consectetur ligula nec vestibulum dapibus. Curabitur vestibulum purus lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed molestie nibh ante, eu rhoncus libero convallis quis. Phasellus molestie justo massa, nec aliquet enim ultricies vitae. Donec suscipit augue vel nunc gravida pretium. Duis et ligula leo.</p>
+        <h2>Ons bedrijf</h2>
+        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aliquam cursus facilisis. Vivamus consectetur ligula nec vestibulum dapibus. Curabitur vestibulum purus lacus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed molestie nibh ante, eu rhoncus libero convallis quis. Phasellus molestie justo massa, nec aliquet enim ultricies vitae. Donec suscipit augue vel nunc gravida pretium. Duis et ligula leo.</p>
       </article>
-      <article class="afbeelding">
+      <article class="afbeelding-bedrijf">
         <img src="images/bedrijf.png" alt="Afbeelding van het gebouw van EKKO energy drink" height="150px;">
       </article>
     </section>
