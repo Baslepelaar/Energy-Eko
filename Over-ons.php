@@ -12,17 +12,19 @@
   </head>
   <body>
     <header>
-      <img src="images/logo.png" alt="" id="logo">
-      <nav id="navigatie">
-        <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Producten</a></li>
-          <li><a href="#">Evenementen</a></li>
-          <li><a href="#">Aanbiedingen</a></li>
-          <li><a href="#">Over Ons</a></li>
-          <li><a href="#">Contact</a></li>
-        </ul>
-      </nav>
+        <article id="logo">
+            <img src="images/logo.png" alt="">
+        </article>
+        <nav id="navigatie">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Producten</a></li>
+                <li><a href="#">Evenementen</a></li>
+                <li><a href="#">Aanbiedingen</a></li>
+                <li><a href="#">Over Ons</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
     </header>
     <main>
     <section class="o-main-tekst">
