@@ -34,6 +34,12 @@
             <img src="" alt="">
             <img src="" alt="">
         </section>
+        <section id="slide-show">
+
+        </section>
+        <section id="articles">
+
+        </section>
     </main>
     <footer>
         <article class="item-footer">
